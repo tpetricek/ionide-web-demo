@@ -1,0 +1,9 @@
+NUGET
+  remote: http://nuget.org/api/v2
+  specs:
+    FAKE (4.4.2)
+    FSharp.Core (4.0.0.1)
+    FsPickler (1.4.0)
+    Suave (0.31.2)
+      FSharp.Core (>= 3.1.2.5)
+      FsPickler (>= 1.2.5)
